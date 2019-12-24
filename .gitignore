@@ -1,1 +1,9 @@
 venv/
+.gitignore
+icon.qrc
+main.spec
+.idea/
+__pycache__/
+build/
+dist/
+output/
