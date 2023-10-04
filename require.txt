@@ -212,7 +212,7 @@ toml==0.10.0
 toolz==0.9.0
 torch==1.1.0
 torchvision==0.2.2
-tornado==6.0.2
+tornado==6.3.3
 tqdm==4.31.1
 traitlets==4.3.2
 unicodecsv==0.14.1
