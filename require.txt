@@ -51,8 +51,8 @@ entrypoints==0.3
 et-xmlfile==1.0.1
 fastcache==1.0.2
 filelock==3.0.10
+future==0.18.3
 Flask==2.2.5
-future==0.17.1
 gast==0.2.2
 gevent==23.9.0
 gevent-websocket==0.10.1
