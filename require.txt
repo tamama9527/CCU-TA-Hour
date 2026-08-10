@@ -193,7 +193,7 @@ six==1.12.0
 snowballstemmer==1.2.1
 sortedcollections==1.1.2
 sortedcontainers==2.1.0
-soupsieve==1.8
+soupsieve==2.8.4
 Sphinx==1.8.5
 sphinxcontrib-websupport==1.1.0
 spyder==3.3.3
